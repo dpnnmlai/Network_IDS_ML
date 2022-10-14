@@ -8,3 +8,4 @@ Machine learning has become an essential layer in all the latest intrusion detec
 Deep neural networks (DNNs) are a very promising tool when it comes to intrusion detection systems (IDS). They are capable of detecting malicious activity in real-time and provide better results than traditional methods.
 
 In this paper, we present a case study on how DNNs can be used in intrusion detection systems. We have used a simple neural network with three layers, which was trained using KDDCup-’99’ dataset. The results of our experiments were compared with those obtained by other classical machine learning algorithms on the same dataset and it was concluded that DNN of 3 layers has superior performance over all the other classical machine learning algorithms.
+
